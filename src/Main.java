@@ -34,6 +34,8 @@ public class Main {
             }else if (vald.equals("n")) {
                 System.out.println("God bye!");
                 break;
+            }else {
+                System.out.println("Not a valid choice. Try again!");
             }
             System.out.println("\nChoose between 1-3 alternatives");
         }
