@@ -1,0 +1,13 @@
+# Övning 1 - Telefonlista
+Gör ett program med hjälp av HashMap som sparar en användares namn som nyckel (key) och telefonnummer som värde (value)
+
+| key   |     value     |
+|-------|---------------|
+| Greta | 543 3431 1533 |
+| Karin | 634 2341 2344 |
+| Kevin | 324 5430 1222 |
+
+Låt användaren fråga efter en persons telefonnummer genom att ge deras namn.
+
+## Level up
+Låt användaren lägga in nya namn och telefonnummer
